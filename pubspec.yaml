@@ -1,0 +1,19 @@
+name: animation_checkmark
+description: Animates a checkmark
+version: 0.0.6+1
+homepage: http://www.icodeforyou.com
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.15.1 <3.0.0" #Dart SDK 2021-12-16
+  flutter: ">=2.8.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test:
+
+flutter:
+  uses-material-design: true
